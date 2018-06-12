@@ -1,0 +1,17 @@
+{
+  "name": "icobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^5.0.4",
+    "grpc": "^1.12.1",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Rudy",
+  "license": "ISC"
+}
